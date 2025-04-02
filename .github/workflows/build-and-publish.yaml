@@ -8,7 +8,7 @@ env:
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "chaos-tickets-emoji" ]
     tags:
       - '*'
   workflow_dispatch:
